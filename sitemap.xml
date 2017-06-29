@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sfh.github.io/images/e6fc018c6854fb40051716fbcd04d6fb.jpg</loc>
+    <lastmod>2017-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sfh.github.io/images/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3635323533302f313730353338322f31626261656466302d363064642d313165332d383463652d3538656233383732653862312e706e67.png</loc>
+    <lastmod>2017-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sfh.github.io/images/business_contact1600.png</loc>
+    <lastmod>2017-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sfh.github.io/images/soundcloud_white.png</loc>
+    <lastmod>2017-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sfh.github.io/images/download%20(1).jpg</loc>
+    <lastmod>2017-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sfh.github.io/index.html</loc>
+    <lastmod>2017-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://sfh.github.io/phone/index.html"/>
+  </url>
+</urlset>

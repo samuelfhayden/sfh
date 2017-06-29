@@ -1,0 +1,41 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sfh.github.io" resolutions="1x" timestamp="1498756948277">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="179248251" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a44ab6f7eb789b8c60925e1f2e4c6c9a.jpg" crc="315838613" ref="phone>index:index"/>
+    <file name="e6fc018c6854fb40051716fbcd04d6fb.jpg" crc="169880482" seo="true" ref="phone>index:index"/>
+    <file name="u1558-4.png" crc="4037041730" ref="phone>index"/>
+    <file name="68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3635323533302f313730353338322f31626261656466302d363064642d313165332d383463652d3538656233383732653862312e706e67.png" crc="3826563100" seo="true" ref="phone>index:index"/>
+    <file name="business_contact1600.png" crc="3992973011" seo="true" ref="phone>index:index"/>
+    <file name="contact.svg" crc="138323689" ref="phone>index:index"/>
+    <file name="contact_poster_.png" crc="137371974" ref="phone>index"/>
+    <file name="soundcloud_white.png" crc="74014723" seo="true" ref="phone>index:index"/>
+    <file name="u1571-4.png" crc="4029199665" ref="phone>index"/>
+    <file name="download (1).jpg" crc="464063443" seo="true" ref="phone>index:index"/>
+    <file name="u1187-4.png" crc="4037041730" ref="index"/>
+    <file name="u1276-4.png" crc="4029199665" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1508.png" crc="403696187" ref="index"/>
+    <file name="u1508-r.png" crc="403696187" ref="index"/>
+    <file name="u1510.png" crc="4208211008" ref="index"/>
+    <file name="u1510-r.png" crc="4208211008" ref="index"/>
+    <file name="u1511.png" crc="3880955645" ref="index"/>
+    <file name="u1511-r.png" crc="3880955645" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3769080578" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="28978718" seo="true" mt="1498756699887" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4259204796" seo="true" mt="1498756684211" redirect="true"/>
+</manifest>
